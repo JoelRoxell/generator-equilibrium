@@ -1,0 +1,2 @@
+.<%= styleName %>
+  border: 1px solid red
